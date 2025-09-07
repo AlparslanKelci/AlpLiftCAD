@@ -1,0 +1,18 @@
+netload
+InProcess.dll
+XplodeAll
+XplodeAll
+-PURGE
+ALL
+*
+N
+_ai_selall
+BURST
+_ai_selall
+_ai_selall
+-PURGE
+ALL
+*
+N
+(load "del_wipeouts.lsp" "MyProgram Failed to Load.")
+gowipe
